@@ -7,9 +7,9 @@ Introducing "GiveBack", an innovative web application dedicated to encouraging a
 **09/12/2023**
 
 ### Team Members
-### Acknowledgements
+[Pramodh Lihinikaduwa](https://github.com/pramodh123kit)
+[Isindu Nimandith](https://github.com/IsinduNimandith23)
 
-Special thanks to [JohnDoe](https://github.com/JohnDoe) for their contributions to this project.
 
 <!--
 
