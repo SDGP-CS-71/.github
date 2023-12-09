@@ -1,5 +1,7 @@
 ## Hi there 👋
-test test?
+
+Introducing "GiveBack", an innovative web application dedicated to encourage a culture of generosity and community sharing. Our platform is designed to minimize waste and maximize support for those in need by facilitating the donation of surplus items to local charities and individuals. But GiveBack isn't just about giving – we enables users to engage with their nearest community groups, initiating exchanges that benefit both parties involved. It's about sharing resources, fostering connections, and making a meaningful impact within our communities. 😎
+
 <!--
 
 **Here are some ideas to get you started:**
