@@ -1,11 +1,9 @@
-#  GiveBack
+#  **GiveBack**
 
-## Hi there 👋 
-
-### Introduction
+## Introduction
 Introducing "GiveBack", an innovative web application dedicated to encouraging a culture of generosity and community sharing. Our platform is designed to minimize waste and maximize support for those in need by facilitating the donation of surplus items to local charities and individuals. But GiveBack isn't just about giving – we enable users to engage with their nearest community groups, initiating exchanges that benefit both parties involved. It's about sharing resources, fostering connections, and making a meaningful impact within our communities. 😎
 
-### Start date 
+## Start date 
 **09/12/2023**
 
 
