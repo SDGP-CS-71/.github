@@ -6,9 +6,16 @@ Introducing "GiveBack", an innovative web application dedicated to encouraging a
 ## **GitHub Start date**
 **09/12/2023**
 
+### Team Supervisor
+**Mr.Prasad Liyanaarachchi** - [prasad.l@iit.ac.lk](prasad.l@iit.ac.lk)    
+
+
 ### Team Members
 [Pramodh Lihinikaduwa](https://github.com/pramodh123kit)   
-[Isindu Nimandith](https://github.com/IsinduNimandith23)
+[Isindu Nimandith](https://github.com/IsinduNimandith23)   
+[Chamikara Pasquel](https://github.com/chamikarapasquel)   
+[Chethana Gayanath](https://github.com/chethana87)   
+[Akash Hewavickrama]   
 
 
 <!--
