@@ -13,7 +13,7 @@ Introducing "GiveBack", an innovative web application dedicated to encouraging a
 * [Isindu Nimandith](https://github.com/IsinduNimandith23)   
 * [Chamikara Pasquel](https://github.com/chamikarapasquel)   
 * [Chethana Gayanath](https://github.com/chethana87)
-* [Akash Hewavickrama]([https://github.com/chethana87](https://github.com/RajeevAkash))   
+* [Akash Hewavickrama](https://github.com/RajeevAkash)   
 
 
 <!--
